@@ -13,3 +13,7 @@ The goal of this app is to give a user regularly-updated news from the internet 
 - Loaders
 - Google News API
 - Swipe-to-refresh
+
+## ScreenShots
+
+file:///C:/Users/ibrah/Desktop/Interviews/ScreenShot/Screenshot_2019-05-27-19-08-59-501_com.example.gamingnews.png
