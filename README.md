@@ -21,4 +21,5 @@ The goal of this app is to give a user regularly-updated news from the internet 
   <img src="https://user-images.githubusercontent.com/44711173/58511926-d36a0280-8169-11e9-860e-32d67af9aa3b.png" width="180" />
   <img src="https://user-images.githubusercontent.com/44711173/58511947-e250b500-8169-11e9-9fb4-fe531c0905ba.png" width="180" /> 
   <img src="https://user-images.githubusercontent.com/44711173/58511974-f1376780-8169-11e9-8567-cc9627b4da8c.png" width="180" />
+  <img src="https://user-images.githubusercontent.com/44711173/58512471-2b553900-816b-11e9-8e5a-dff0345c9ee0.png" width="180" />
 </p>
