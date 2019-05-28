@@ -7,9 +7,9 @@ The goal of this app is to give a user regularly-updated news from the internet 
 
 ## Features
 
--JSON Parsing
--Grid View
--intent
--Loaders
--Google News API
--Swipe-to-refresh
+- JSON Parsing
+- Grid View
+- intent
+- Loaders
+- Google News API
+- Swipe-to-refresh
