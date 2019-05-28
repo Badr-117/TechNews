@@ -20,3 +20,8 @@ The goal of this app is to give a user regularly-updated news from the internet 
 ![Screenshot_2019-05-28-16-48-27-846_com example gamingnews](https://user-images.githubusercontent.com/44711173/58511947-e250b500-8169-11e9-9fb4-fe531c0905ba.png)
 ![Screenshot_2019-05-28-16-49-41-252_com example gamingnews](https://user-images.githubusercontent.com/44711173/58511961-eaa8f000-8169-11e9-8097-17190cfd4c97.png)
 ![Screenshot_2019-05-28-16-50-31-741_com example gamingnews](https://user-images.githubusercontent.com/44711173/58511974-f1376780-8169-11e9-8567-cc9627b4da8c.png)
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
